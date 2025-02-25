@@ -22,4 +22,4 @@ Pour réaliser ce projet et répondre a la problématique nous nous sommes basé
     - De Dijkstra
     - De prime
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-raVrG38Wps?si=CN6MkE11hKKJJFz1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<video src="https://www.youtube.com/embed/-raVrG38Wps?si=CN6MkE11hKKJJFz1" /> 
