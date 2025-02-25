@@ -14,3 +14,12 @@ Le graphe de la topologie, valué par les coûts de locations des liens (en cent
 > En sortie
 Uen réprésentation de la topologie WAN avec en couleur les liens WAN à louer pour minimiser le coût tout en assurant la connexion inter-site, ainsi que le montant total du bail de location.
 <img width="215" alt="image" src="https://github.com/user-attachments/assets/e0b59a39-bc86-4ecf-8790-e947f56756f7" />
+
+
+## 2. Réalisation 
+
+Pour réaliser ce projet et répondre a la problématique nous nous sommes basé sur la vidéo suivante et avons implémenter les algorithmes:
+    - De Dijkstra
+    - De prime
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-raVrG38Wps?si=CN6MkE11hKKJJFz1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
