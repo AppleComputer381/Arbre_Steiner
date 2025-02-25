@@ -19,7 +19,7 @@ Uen réprésentation de la topologie WAN avec en couleur les liens WAN à louer 
 ## 2. Réalisation 
 
 Pour réaliser ce projet et répondre a la problématique nous nous sommes basé sur la vidéo suivante et avons implémenter les algorithmes:
-    - De Dijkstra
-    - De prime
+   \n - De Dijkstra
+   \n - De prime
 
 <video src="https://www.youtube.com/embed/-raVrG38Wps?si=CN6MkE11hKKJJFz1" /> 
